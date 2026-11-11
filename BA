@@ -1,0 +1,106 @@
+# Business Analysis Case Study: Food Delivery Operations
+
+## 1. Project Overview
+
+This case study examines operational inefficiencies within a food delivery platform and proposes business solutions to improve order management, vendor coordination and customer satisfaction.
+
+**Role:** Business Analyst  
+**Industry:** Food Technology / E-commerce  
+**Project Type:** Business Process Improvement
+
+## 2. Business Problem
+
+The business is experiencing operational challenges, including:
+- Delayed order fulfilment.
+- Inconsistent vendor response times.
+- Order inaccuracies.
+- Poor communication between vendors, riders and customers.
+- Limited visibility into order status.
+
+These challenges affect customer satisfaction, operational efficiency and repeat purchases.
+
+## 3. Stakeholder Analysis
+
+| Stakeholder | Interest |
+|---|---|
+| Customers | Accurate and timely deliveries |
+| Vendors | Efficient order management |
+| Riders | Clear delivery instructions |
+| Operations Team | Order monitoring and issue resolution |
+| Management | Revenue growth and customer retention |
+
+## 4. Business Requirements
+
+The proposed solution should:
+
+1. Provide real-time order status updates.
+2. Enable vendors to accept or reject orders.
+3. Improve coordination between vendors and delivery personnel.
+4. Provide an order management dashboard.
+5. Enable customer support to track and resolve complaints.
+
+## 5. As-Is Process
+
+1. Customer places an order.
+2. Vendor receives the order.
+3. Vendor prepares the meal.
+4. Rider is assigned.
+5. Customer waits for delivery.
+6. Customer contacts support if an issue occurs.
+
+**Identified gaps:** Limited order visibility, communication delays and inconsistent escalation procedures.
+
+## 6. Proposed To-Be Process
+
+1. Customer places an order.
+2. Vendor receives an instant notification.
+3. Vendor accepts the order and confirms preparation time.
+4. Operations monitors order progress.
+5. Rider receives delivery assignment.
+6. Customer receives status notifications.
+7. Delivery is completed and feedback is collected.
+
+## 7. Functional Requirements
+
+| Requirement | Priority |
+|---|---|
+| Order tracking | High |
+| Vendor order dashboard | High |
+| Rider assignment | High |
+| Automated notifications | High |
+| Customer complaint management | Medium |
+| Performance reporting | Medium |
+
+## 8. Sample User Story
+
+**As a customer**, I want to track my food order in real time so that I know when to expect delivery.
+
+**Acceptance Criteria:**
+- Customer can view order confirmation.
+- Customer can see order preparation status.
+- Customer can view rider assignment.
+- Customer receives delivery status updates.
+- Customer can report an order issue.
+
+## 9. Success Metrics
+
+- Average order fulfilment time.
+- Percentage of orders delivered on time.
+- Order cancellation rate.
+- Customer complaint rate.
+- Vendor acceptance time.
+- Customer satisfaction score.
+
+## 10. Recommendations
+
+- Introduce structured vendor order management.
+- Implement automated notifications.
+- Establish order escalation procedures.
+- Introduce operational performance dashboards.
+- Monitor vendor and rider performance.
+
+## 11. Conclusion
+
+A structured approach to business analysis can help identify operational gaps, improve workflows and translate business challenges into actionable system requirements.
+---
+*This is a simulated portfolio case study developed to demonstrate business analysis methodology and problem-solving skills.*
